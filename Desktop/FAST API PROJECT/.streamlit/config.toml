@@ -1,0 +1,15 @@
+[theme]
+# The primary accent color for interactive elements (like your submit buttons!)
+primaryColor = "#00d4ff"
+
+# The background color for the main content area
+backgroundColor = "#1e1e1e"
+
+# The background color for your sidebar (where your mechanic expander is)
+secondaryBackgroundColor = "#2e3136"
+
+# The color used for text
+textColor = "#ffffff"
+
+# The font family (sans serif, serif, or monospace)
+font = "sans serif"
